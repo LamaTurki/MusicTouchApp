@@ -4,13 +4,16 @@
     <string name="recently_added">Recently Added</string>
     <string name="all_songs">All Songs</string>
     <string name="discover">Discover New Songs</string>
+    <string name="discover_more">Discover More Songs</string>
     <string name="albums">Albums</string>
     <string name="artists">Artists</string>
     <string name="payment_label">In-App Billing</string>
-    <string name="albums_activity_description">This activity lists all downloaded albums. when user clicks on an album, app will start a new activity with downloaded songs of the album.</string>
-    <string name="discovernewsongs_activity_description">In this activity the user can search for new songs and purchase them</string>
-    <string name="artists_activity_description">This activity lists all user\'s artists. When user clicks on an artist, app will start a new activity with all downloaded songs by the artist.</string>
-    <string name="nowplaying_activity_description">This activity shows currently playing song with an image and controllers</string>
-    <string name="allsongs_activity_description">This activity lists all downloaded songs with a button to play the song</string>
-    <string name="payment_activity_description">This activity will show purchase summary and handle payment using In-app Billing API from Google Play</string>
+    <string name="now_playing_navigator">GO TO NOW PLAYING</string>
+    <string name="albums_activity_description">ALBUMS ACTIVITY\nThis activity lists all downloaded albums in a list view. when user clicks on an album, app will start a new activity with downloaded songs of the album.</string>
+    <string name="discovernewsongs_activity_description">DISCOVER NEW SONGS AVTIVITY\nIn this activity the user can search for new songs using Last.fm API and purchase them</string>
+    <string name="artists_activity_description">ARTISTS ACTIVITY\nThis activity lists all user\'s artists. When user clicks on an artist, app will start a new activity with all downloaded songs by the artist.</string>
+    <string name="nowplaying_activity_description">NOW PLAYING ACTIVITY\nThis activity shows currently playing song with album art and controllers which is handled using MediaPlayer Class</string>
+    <string name="allsongs_activity_description">ALL SONGS ACTIVITY\nThis activity lists all downloaded songs with a button to play the song</string>
+    <string name="payment_activity_description">PAYMENT ACTIVITY\nThis activity will show purchase summary and handle payment using In-app Billing API from Google Play</string>
+    <string name="main_activity_description">MAIN ACTIVITY\nlists the different app activities the user can navigate to. also displays the latest downloaded music that plays when clicked on. </string>
 </resources>
